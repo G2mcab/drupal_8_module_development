@@ -7,3 +7,5 @@ DDev used as container
 To start the project
 DDEV start
 
+To stop the project
+DDEV stop
