@@ -2,3 +2,4 @@ name: My First Custom Module
 type: module
 core: '8.x'
 description: 'My First Drupal Module'
+core_version_requirement: 8.9.1
